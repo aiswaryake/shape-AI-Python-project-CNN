@@ -1,0 +1,2 @@
+# shape-AI-Python-project-CNN
+CONTROL NEURAL NETWORK PYTHON
